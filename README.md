@@ -1,5 +1,7 @@
 # iOSDC2020-Article-Sample
 
+[![CI](https://github.com/uhooi/iOSDC2020-Article-Sample/workflows/CI/badge.svg)](https://github.com/uhooi/iOSDC2020-Article-Sample/actions?query=workflow%3ACI)
+
 ## 概要
 
 iOSDC 2020「GitHub ActionsでiOSアプリをCIする個人的ベストプラクティス」パンフレット記事のサンプルリポジトリです。
