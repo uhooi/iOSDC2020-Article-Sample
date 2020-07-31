@@ -25,6 +25,7 @@ iOSDC 2020「GitHub ActionsでiOSアプリをCIする個人的ベストプラク
 
 1. 以下をインストールします。
 
+- [Xcode](https://apps.apple.com/jp/app/xcode/id497799835?mt=12)
 - [rbenv](https://github.com/rbenv/rbenv)
 - [Bundler](https://github.com/rubygems/bundler)
 - [Mint](https://github.com/yonaskolb/Mint)
@@ -56,3 +57,9 @@ build-debug                デバッグビルド
 test                       単体テスト
 ```
 
+## CI
+
+本リポジトリはGitHub ActionsでCIを実行しています。
+READMEの上部にバッジを表示しているので、そこでCIの結果がわかり、クリックすることで詳細に飛べます。
+
+フォークしても動作するので、フォーク後に `master` ブランチへプッシュして試してみてください。
