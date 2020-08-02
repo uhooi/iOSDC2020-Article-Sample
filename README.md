@@ -12,7 +12,10 @@ iOSDC 2020「GitHub ActionsでiOSアプリをCIする個人的ベストプラク
 READMEの上部にバッジを表示しているので、そこでCIの結果がわかり、クリックすることで詳細に飛べます。
 
 フォークしても動作するので、フォーク後に `master` ブランチへプッシュして試してみてください。
-GitHubにログインし、「Actions」タブからフォークしたリポジトリのアクション実行を許可する必要があります。
+
+ただデフォルトではフォークしたリポジトリのワークフローが無効になっています。
+GitHubにログインして「Actions」タブから「I understand my workflows, go ahead and enable them」をクリックし、フォークしたリポジトリのワークフローを有効にする必要があります。
+![GitHubActionsForked](./Docs/Images/GitHubActionsForked.png)
 
 ## 開発
 
